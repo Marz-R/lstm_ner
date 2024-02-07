@@ -1,5 +1,3 @@
-Hi! This is Chui Ting Cheung.
-
 The packages in the environment that I used is here in requirements.txt in the folder. (FYI, I used conda)
 
 To train and test the model, simple run command "python main.py". 
